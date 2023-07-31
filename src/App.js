@@ -1,8 +1,10 @@
 import ReactDOM from "react-dom/client";
+import Header from "./components/Header";
+
 
 const App = () => {
     return (
-        <h1>Hello Notes App</h1>
+        <Header />
     );
 }
 
