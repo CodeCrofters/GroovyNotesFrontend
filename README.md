@@ -17,3 +17,8 @@ Frontend for our Web App Groovy Notes is built using:
  - Make sure you have NodeJS and npm installed.
  - run `npm i`.
  - run `npm start`.
+
+## Contributors
+<a href="https://github.com/CodeCrofters/GroovyNotesFrontend/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=CodeCrofters/GroovyNotesFrontend" />
+</a>
