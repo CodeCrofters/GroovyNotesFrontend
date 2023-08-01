@@ -1,4 +1,4 @@
-import logo from "../../assets/images/groovy_temp.png";
+import logo from "../../../assets/images/groovy_temp.png";
 
 const Title = () => {
     return (
